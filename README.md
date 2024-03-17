@@ -9,7 +9,12 @@ W pierwszej kolejności skupimy się na części mechanicznej, w której będzie
 Następne etapy skupią się na potrzebnym układzie elektrycznym projektu oraz programie odpowiadającym za sterowanie silnikiem napędzającym magazyn, jak i rozpoznawaniem skrytek/użytkowników.
 
 Lista komponentów: <br>
-*
-*
-*
+*Raspberry PI 3 <br>
+*Moduł RFID <br>
+*RFID tags  <br>
+*Silnik krokowy <br>
+*Obudowa <br>
+*Wyświetlacz HMI <br>
+*Pojemniki [LINK] (https://botland.com.pl/skrzynki-i-organizery/22368-kuweta-warsztatowa-kbis10-do-tablicy-narzedziowej-binner-board-kistenberg-5905197287294.html) <br>
+
 
