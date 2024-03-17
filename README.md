@@ -20,5 +20,5 @@ Następne etapy skupią się na potrzebnym układzie elektrycznym projektu oraz 
 
 ### Połączenia
 
-
+![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Diagram_polaczen.png)
 
