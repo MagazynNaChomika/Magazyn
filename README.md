@@ -9,5 +9,7 @@ W pierwszej kolejności skupimy się na części mechanicznej, w której będzie
 Następne etapy skupią się na potrzebnym układzie elektrycznym projektu oraz programie odpowiadającym za sterowanie silnikiem napędzającym magazyn, jak i rozpoznawaniem skrytek/użytkowników.
 
 Lista komponentów:
+*
+*
+*
 
-1.
