@@ -8,7 +8,7 @@ Założeniem jest rozpoznawanie danej skrytki dzięki technologii RFID oraz zabe
 W pierwszej kolejności skupimy się na części mechanicznej, w której będziemy zajmować się konstrukcją magazynu i projektować brakujące elementy.
 Następne etapy skupią się na potrzebnym układzie elektrycznym projektu oraz programie odpowiadającym za sterowanie silnikiem napędzającym magazyn, jak i rozpoznawaniem skrytek/użytkowników.
 
-Lista komponentów:
+Lista komponentów: <br>
 *
 *
 *
