@@ -15,6 +15,6 @@ Lista komponentów: <br>
 *Silnik krokowy <br>
 *Obudowa <br>
 *Wyświetlacz HMI <br>
-*Pojemniki [LINK] (https://botland.com.pl/skrzynki-i-organizery/22368-kuweta-warsztatowa-kbis10-do-tablicy-narzedziowej-binner-board-kistenberg-5905197287294.html) <br>
+*Pojemniki [LINK](https://botland.com.pl/skrzynki-i-organizery/22368-kuweta-warsztatowa-kbis10-do-tablicy-narzedziowej-binner-board-kistenberg-5905197287294.html) <br>
 
 
