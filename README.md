@@ -22,5 +22,12 @@ Następne etapy skupią się na potrzebnym układzie elektrycznym projektu oraz 
 
 ### Połączenia
 
-![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Diagram_polaczen2.png)
+![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Diagram_polaczen2.png) <br>
+
+### Baza MySQL
+![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Widok_ca%C5%82ej_bazy.png) <br>
+![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Tablica_device.png) <br>
+![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Podgl%C4%85d_stworzonych_tablic.png) <br>
+![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Tablica_shelf.png) <br>
+![Image](https://github.com/MagazynNaChomika/Magazyn/blob/main/Tablica_users.png)
 
